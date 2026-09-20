@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weknora Chunk Editor"
+  short_description: "Safely edit one existing Weknora knowledge chunk."
+  default_prompt: "Use $weknora-edit-chunk to replace exact text in a Weknora knowledge-base chunk."
